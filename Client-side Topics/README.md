@@ -1,0 +1,6 @@
+- Cross-site Scripting (XSS)
+- Cross-site Request Forgery (CSRF)
+- Cross-origin Resource Sharing (CORS)
+- Clickjacking
+- DOM-based Vulnerabilities
+- WebSockets
