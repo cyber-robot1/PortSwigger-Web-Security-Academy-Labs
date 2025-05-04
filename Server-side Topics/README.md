@@ -1,0 +1,14 @@
+- SQL Injection
+- Authentication
+- Path Traversal
+- Command Injection
+- Bussines Logic Vulnerabilities
+- Information Disclosure
+- Access Control
+- File Upload Vulnerabilities
+- Race Conditions
+- Server-side Request Forgery (SSRF)
+- XXE Injection
+- NoSQL Injection
+- API Testing
+- Web Cache Deception
